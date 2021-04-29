@@ -1,0 +1,12 @@
+#myimg{
+    height: 250px;
+    width: 250px;
+}
+
+.benClass{
+    filter: saturate(0%);
+}
+
+.brightClass{
+   filter: brightness(200%);
+}
